@@ -14,6 +14,7 @@ You can click the Preview link to take a look at your changes.
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Ghost Gaming</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 <style>
   body {
     margin: 0;
@@ -46,6 +47,12 @@ You can click the Preview link to take a look at your changes.
     text-decoration: none;
     border-radius: 5px;
   }
+
+  .email {
+    text-align: center;
+    margin-top: 20px;
+    color: #333;
+  }
 </style>
 </head>
 <body>
@@ -54,14 +61,18 @@ You can click the Preview link to take a look at your changes.
   </div>
   <div class="options">
     <div class="option">
-      <a href="https://www.instagram.com/">Instagram</a>
+      <a href="https://www.instagram.com/"><i class="fab fa-instagram"></i> Instagram</a>
     </div>
     <div class="option">
-      <a href="https://www.youtube.com/">YouTube</a>
+      <a href="https://www.youtube.com/"><i class="fab fa-youtube"></i> YouTube</a>
     </div>
     <div class="option">
-      <a href="https://www.facebook.com/">Facebook</a>
+      <a href="https://www.facebook.com/"><i class="fab fa-facebook"></i> Facebook</a>
     </div>
+  </div>
+  <div class="email">
+    Email: <a href="mailto:kunalbhatt648@gmail.com">kunalbhatt648@gmail.com</a>
   </div>
 </body>
 </html>
+
